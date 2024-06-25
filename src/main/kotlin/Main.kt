@@ -11,6 +11,12 @@ fun main(args: Array<String>) {
 
     //scopeFunctionTest()
 
+    println("Thread.currentThread() = ${Thread.currentThread()}")
+    //rxJavaSampleTest02()
+    rxJavaSampleTest03()
+    rxJavaSampleTest04()
+
+    Thread.sleep(3000)
 
 
 }
