@@ -13,8 +13,15 @@ fun main(args: Array<String>) {
 
     println("Thread.currentThread() = ${Thread.currentThread()}")
     //rxJavaSampleTest02()
-    rxJavaSampleTest03()
-    rxJavaSampleTest04()
+    //rxJavaSampleTest03()
+    //rxJavaSampleTest04()
+    //rxJavaSampleTest05()
+    //rxJavaSampleTest06()
+    //rxJavaSampleTest07()
+    //rxJavaSampleTest08()
+
+    rxJavaTest001()
+    //rxJavaTest002()
 
     Thread.sleep(3000)
 
